@@ -1,0 +1,4 @@
+1. 우분투 환경 만들기(docker, vm)
+2. ssh 설치하기 (apt 활용)
+3. ssh id@domain -p port를 입력후 비밀번호 입력
+4. 서버에 접속하면 ls와 cat을 이용해서 flag파일 내용 확인
